@@ -7,4 +7,6 @@ very good
 
 812 test rebase
 
-b.txt  rebase git_test directory
+b.txt  rebase git_test directory812 test rebase
+
+rebase -1
