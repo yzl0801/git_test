@@ -6,3 +6,5 @@ python language is good
 very good
 
 812 test rebase
+
+b.txt  rebase git_test directory
